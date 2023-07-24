@@ -1,8 +1,6 @@
 class sample
   public static void main(String[] args)
   {
-    sop("v1.a");//signup & login
-    sop("v1.a+v1.b");//compose 
-    sop("v1.a+v1.b+v1.c");//allmails & starred
-    sop("v2.a);//sent items & inbox
+    sop("v2.a");//sent items & inbox
+    sop("v2.a+v2.b");//logout
   }
