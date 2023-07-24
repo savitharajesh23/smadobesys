@@ -2,4 +2,5 @@ class sample
   public static void main(String[] args)
   {
     sop("v1.a");//signup & login
+    sop("v1.a+v1.b")//compose 
   }
